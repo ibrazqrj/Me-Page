@@ -1,4 +1,4 @@
-![image](https://github.com/ibrazqrj/2nd-Me-Page/assets/153816768/c3f2e181-b193-4750-9b46-91b52eeb888c)
+![image](https://github.com/ibrazqrj/2nd-Me-Page/assets/153816768/0c68e76f-9ad3-4559-b0db-61148c639822)
 
 # Me Page 👤
 

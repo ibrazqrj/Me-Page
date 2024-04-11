@@ -19,4 +19,4 @@ This is a simple personal webpage created by Ibrahim Zeqiraj. It showcases basic
 To view the webpage locally, simply clone this repository:
 
 ```bash
-[git clone https://github.com/ibrazqrj/2nd-Me-Page.git]
+[git clone https://github.com/ibrazqrj/Me-Page.git]
